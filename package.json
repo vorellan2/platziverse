@@ -1,0 +1,22 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "pz",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vorellan2/platziverse.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vorellan2/platziverse/issues"
+  },
+  "homepage": "https://github.com/vorellan2/platziverse#readme",
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
